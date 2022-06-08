@@ -1,6 +1,6 @@
 
 # McMedHacks2022 Prep Week 3: Assignment
-McMedHacks 2022 Prep Week 3 introduces participants to scientific programming with Python through a workshop prepared by Saman Rahbar and an assignment prepared by Nadia Blostein and Cesare Spinoso. The assignment leverages the new concepts from the workshop in order to introduce students to data processing, a critical  prerequisite to any data analysis or machine learning application. 
+McMedHacks 2022 Prep Week 3 introduces participants to scientific programming with Python through a workshop prepared by Saman Rahbar and an assignment prepared by Nadia Blostein and Cesare Spinoso. The assignment leverages the new concepts from the workshop in order to introduce students to data processing, a critical  prerequisite to any data analysis or machine learning application. The data comes from the [following repository](https://github.com/NadiaBlostein/Open-Access-HCP-Data.git) and you can read more about it by taking a look at the documentation below.
 
 ## About the Human Connectome Project (HCP) Data
 
